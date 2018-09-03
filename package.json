@@ -12,7 +12,7 @@
     "url": "git+https://github.com/santosh099/countdownJS.git"
   },
   "author": "Santosh",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/santosh099/countdownJS/issues"
   },
